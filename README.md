@@ -1,4 +1,5 @@
-### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/todoListOnJS/
+#### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/todoListOnJS/
+
 Проект "Todo-лист"
 ![image](https://user-images.githubusercontent.com/61347452/228734323-4dd3cb90-49f1-46eb-8d64-f280d8df3cc8.png)
 Внесенные задачи сохраняются в localStorage
